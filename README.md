@@ -1,12 +1,11 @@
-# Hello World! 👋
- ## Product Manager who codes | MERN Stack developer 
+
+ ## Full Stack Developer | Backend AI Engineer
 🚀 Technical Skills
-* Languages: JavaScript, TypeScript, Java
+* Languages: C#, TypeScript, Java, SwiftUI
 
 ### Web Development-
-* Frontend - HTML, CSS, React, Recoil, Tailwind
-* Backend - Node.js, Express.js, NGINX 
+* Mobile App - Flutter, SwiftUI, Kotlin
+* Frontend Web - HTML, CSS, React, Recoil, Tailwind, Next.js
+* Backend - .Net, FastAPI, Node.js, Express.js, NGINX 
 * Cloud - AWS S3, Cloudfront, EC2
-* Databases: MongoDB, PostgreSQL
-* Tools: Git, Postman, Jira, Miro, 
-* UI/UX Design: Figma, Adobe XD
+* Databases: PostgreSQL
