@@ -1,38 +1,39 @@
-👨‍💻 Software Engineer
-🚀 Technical Expertise
 
-Applied AI & LLM Systems
 
-Retrieval-Augmented Generation (Hybrid Dense + Sparse Retrieval)
+## 👨‍💻 Software Engineer
 
-Context Engineering & Advanced Chunking Strategies
+### 🚀 Technical Expertise
 
-Local LLM Inference & Model Quantization
+**Applied AI & LLM Systems**
 
-Programming Languages
+* Retrieval-Augmented Generation (Hybrid Dense + Sparse Retrieval)
+* Context Engineering & Advanced Chunking Strategies
+* Local LLM Inference & Model Quantization
 
-C#, TypeScript, Java, Python, Swift
+**Programming Languages**
 
-Mobile Development
+* C#, TypeScript, Java, Python, Swift
 
-Flutter, SwiftUI, Kotlin
+**Mobile Development**
 
-Frontend Engineering
+* Flutter, SwiftUI, Kotlin
 
-React, Next.js, Recoil, Tailwind CSS
+**Frontend Engineering**
 
-HTML, CSS
+* React, Next.js, Recoil, Tailwind CSS
+* HTML, CSS
 
-Backend & APIs
+**Backend & APIs**
 
-.NET Core 8.0, FastAPI
+* .NET Core 8.0, FastAPI
+* Node.js, Express.js
 
-Node.js, Express.js
+**Cloud & Deployment**
 
-Cloud & Deployment
+* AWS, Cloudflare, Vercel
 
-AWS, Cloudflare, Vercel
+**Databases & ORM**
 
-Databases & ORM
+* PostgreSQL, Prisma
 
-PostgreSQL, Prisma
+
