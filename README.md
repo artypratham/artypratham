@@ -21,12 +21,12 @@
 **Frontend Engineering**
 
 * React, Next.js, Recoil, Tailwind CSS
-* HTML, CSS
 
 **Backend & APIs**
 
-* .NET Core 8.0, FastAPI
-* Node.js, Express.js
+* .NET Core 8.0
+* Node.js
+* FastAPI
 
 **Cloud & Deployment**
 
